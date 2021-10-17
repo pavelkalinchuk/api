@@ -10,3 +10,6 @@ f.write(json.dumps(response, indent=4))
 # Закрываем файл result.json
 f.close()
 # print(json.dumps(response, indent=4)
+
+
+print("\ntest")
